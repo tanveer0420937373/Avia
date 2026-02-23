@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-multipart
+# apne AI model ke according other libraries
